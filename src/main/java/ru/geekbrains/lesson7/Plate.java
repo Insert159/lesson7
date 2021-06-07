@@ -1,6 +1,5 @@
 package ru.geekbrains.lesson7;
 
-import java.util.Scanner;
 
 public class Plate {
     private int food;

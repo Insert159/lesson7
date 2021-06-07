@@ -11,9 +11,4 @@ public class Cat {
         p.decreaseFood(appetite);
     }
 
-    public boolean isFullness() {
-    }
-
-    public long getAppetite() {
-    }
 }
