@@ -8,7 +8,7 @@ public class MainClass {
                 new Cat("Barsik", 2),
                 new Cat("Murzik", 7),
                 new Cat("Markiz", 5),
-                new Cat("Tom", 3),
+                new Cat("Tomas", 3),
                 new Cat("Pushok", 1),
                 new Cat("Snezhok", 2),
                 new Cat("Vas'ka", 5),
